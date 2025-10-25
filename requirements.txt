@@ -1,3 +1,2 @@
-main.py
-keep_alive.py
-requirements.txt
+discord.py
+flask
