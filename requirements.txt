@@ -1,3 +1,3 @@
-discord.py
-flask
-pynacl
+main.py
+keep_alive.py
+requirements.txt
