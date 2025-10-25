@@ -43,4 +43,5 @@ async def out(interaction: discord.Interaction):
     else:
         await interaction.response.send_message("❌ Be Cam không ở trong kênh voice nào.", ephemeral=True)
 
-bot.run("TOKEN_DISCORD_CỦA_BẠN")
+bot.run("MTQzMTIyOTcyMTkyODI2OTkzNA.G3CY5C.twvZVW2RJEG2AZtgofPT8GKPhhKqWflSFNGbE8")
+
